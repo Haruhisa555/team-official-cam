@@ -1,0 +1,5 @@
+.DS_Store
+*.py
+スクリーンショット*
+*.png
+!images/*.png
